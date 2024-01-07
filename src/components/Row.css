@@ -1,0 +1,28 @@
+.row{
+    margin-left: 20px;
+    
+}
+::-webkit-scrollbar{
+    display: none;
+}
+.movierow{
+    display: flex;
+    margin-top: 25px;
+    overflow-x: scroll;
+}
+.movie{
+    height: 200px;
+    width: 100%;
+    margin-left: 20px;
+    border-radius: 5px;
+    transition: transform 500ms;
+    cursor: pointer;
+    
+}
+.movie:hover{
+    transform: scale(1.1);
+}
+.title{
+    color: white;
+    margin-top: 20px;
+}

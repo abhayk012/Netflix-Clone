@@ -1,0 +1,45 @@
+.footer{
+    height: 250px;
+    
+    
+}
+.footericons{
+    
+    color: gray;
+    font-size: 30px;
+    margin-left:300px;
+    margin-top: 100px;
+
+    
+}
+.footericons i{
+    padding: 10px;
+    cursor: pointer;
+}
+.links{
+    color: gray;
+    font-size: 15px;
+    margin-top: 20px;
+    display: flex;
+
+}
+.abi{
+    cursor: pointer;
+    padding-top: 15px;
+}
+.abi2{
+    cursor: pointer;
+    margin-top: 300px;
+    padding-top: 20px;
+
+
+}
+table{
+    padding-left: 30px;
+}
+.table2{
+    margin-left: 15px;
+}
+.table1{
+    margin-top: 3px;
+}
